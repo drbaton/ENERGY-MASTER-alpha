@@ -4,7 +4,7 @@ Zbilansuj system różnymi źródłami/BESS i zarabiaj! :D Punkty do SCORE - je�
 if python yes:
 1. Zainstaluj pygame (math, collections, random i pathlib na pewno masz if python>3.x): pip install pygame 
 2. Uruchom: python energy_master_alpha_1_6.py
-3. Zachowaj folder assets obok skryptu.
+3. Zachowaj folder assets obok skryptu (rozpakuj do katalogu gry - w tym katalogu znajdują się grafiki gry).
 
 w folderze jest również EXE, skompilowany PyInstallerem na win11/64bit; python 3.11
 

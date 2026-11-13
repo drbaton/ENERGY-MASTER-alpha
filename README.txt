@@ -6,7 +6,7 @@ if python yes:
 2. Uruchom: python energy_master_alpha_1_6.py
 3. Zachowaj folder assets obok skryptu (rozpakuj do katalogu gry - w tym katalogu znajdują się grafiki gry).
 
-w folderze jest również EXE, skompilowany PyInstallerem na win11/64bit; python 3.11
+w folderze jest również spec, do skompilowania PyInstallerem na win11/64bit; python 3.1x
 
 Grafika: chatGPT + paint XD
 Music: tekst, prompty, produkcja: J. Dąbrowski, wykonanie: suno.com
